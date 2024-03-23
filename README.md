@@ -2,9 +2,9 @@
 
 Live site:
 
-- [ByteBlaze](https://byte-blaze.netlify.app/)
+- [ByteBlaze](https://byteblaze-web.netlify.app/)
 
-Resources:
+Resources links:
 
 - [React Router Dom](https://reactrouter.com/en/main)
 - [Tailwindcss Buttons](https://devdojo.com/tailwindcss/buttons)
